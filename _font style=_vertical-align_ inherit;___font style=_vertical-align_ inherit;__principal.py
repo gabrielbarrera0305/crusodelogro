@@ -19,5 +19,7 @@ print (div)
 ciencia = 18
 lengua = 17
 historia = 15
-calif = ciencia + lengua + historia / d
+calif = ciencia + lengua + historia 
+resul = calif / 3
 print (calif)
+print (resul)
